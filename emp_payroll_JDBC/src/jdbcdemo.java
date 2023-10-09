@@ -10,7 +10,7 @@ public class jdbcdemo {
 		Scanner sc=new Scanner(System.in);
 		System.out.println("***********************************************************************************************************************************************************************************");
 		System.out.println("\t\t\t\t\t\t\t\t||                                   ||");
-		System.out.println("\t\t\t\t\t\t\t\t||    PAYROLL  MANAGEMENT  SYSTEM    ||");
+		System.out.println("\t\t\t\t\t\t\t\t||    EMP  MANAGEMENT  SYSTEM    ||");
 		System.out.println("\t\t\t\t\t\t\t\t||                                   ||");
 		System.out.println("***********************************************************************************************************************************************************************************");
 		do{

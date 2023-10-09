@@ -15,15 +15,7 @@ public class getins {
 		System.out.println("\t\t\t==========================");
 		System.out.println("");
 		System.out.println("\t\t\t==========================");
-		System.out.println("\t\t\t|2| Salary  Calculation  |");
-		System.out.println("\t\t\t==========================");
-		System.out.println("");
-		System.out.println("\t\t\t==========================");
-		System.out.println("\t\t\t|3| Report Generation    |");
-		System.out.println("\t\t\t==========================");
-		System.out.println("");
-		System.out.println("\t\t\t==========================");
-		System.out.println("\t\t\t|4| Exit                 |");
+		System.out.println("\t\t\t|2| Exit                 |");
 		System.out.println("\t\t\t==========================");
 		
 		System.out.print("Select : ");
